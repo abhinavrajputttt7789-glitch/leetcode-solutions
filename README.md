@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0704-binary-search](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0704-binary-search) |
 ## Binary Search
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 ## String Matching
 |  |
 | ------- |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
