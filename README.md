@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0112-path-sum) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0572-subtree-of-another-tree](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -124,10 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Trie
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Dynamic Programming
 |  |
 | ------- |
