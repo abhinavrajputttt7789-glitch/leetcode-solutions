@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0412-fizz-buzz](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0572-subtree-of-another-tree](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -141,8 +142,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
