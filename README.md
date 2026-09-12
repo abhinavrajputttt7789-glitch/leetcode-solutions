@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0374-guess-number-higher-or-lower](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0704-binary-search) |
 ## Divide and Conquer
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0412-fizz-buzz](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0412-fizz-buzz) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
