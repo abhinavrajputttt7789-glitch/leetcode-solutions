@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0191-number-of-1-bits](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 ## Tree
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Design
 |  |
