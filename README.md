@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
