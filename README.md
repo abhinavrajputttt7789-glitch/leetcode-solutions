@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0704-binary-search](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0704-binary-search) |
+| [0832-flipping-an-image](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0832-flipping-an-image](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## String Matching
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0832-flipping-an-image](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Design
 |  |
 | ------- |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0832-flipping-an-image](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Newton's Method
 |  |
 | ------- |
@@ -183,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/abhinavrajputttt7789-glitch/leetcode-solutions/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
